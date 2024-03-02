@@ -10,5 +10,5 @@ pip install numpy pandas matplotlib seaborn streamlit babel
 ## Run streamlit app
 
 ```bash
-streamlit run dashboard.py
+streamlit run c:/Users/Lenovo/anaconda3/envs/main-ds/submission/dashboard/dashboard.py
 ```
